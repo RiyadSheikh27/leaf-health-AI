@@ -7,6 +7,9 @@ This project utilizes **EfficientNetB4** for the classification of 39 plant dise
 - Utilizes **EfficientNetB4** for high accuracy (97%)
 - Fast and scalable for real-time plant disease detection
 
+## Dataset
+-https://www.tensorflow.org/datasets/catalog/plant_village
+
 ## Run the Server
 
 To run the application locally, use the following command:
